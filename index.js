@@ -5,16 +5,19 @@ function theBeatlesPlay(arr1, arr2){
   for (var i = 0; i < arr1.length; i++){
     for(var j = 0; j < arr2.length; j++){
       emptyArr.push(arr1[i] + " plays " + arr2[j])
-      return emptyArr
     }
   }
-  
+  return emptyArr
 }
 
 function johnLennonFacts(factsArr){
-  var x = 0;
-  while(x <=  factsArr.length){
-    return factsArr[x] + "!!!"
-    x++
+  let  x = 0;
+  let newArr = [];
+
+  while(x <  factsArr.length){
+    newArr.push( factsArr[x] + "!!!");
+    x++;
   }
+  
+  return newArr;
 }
