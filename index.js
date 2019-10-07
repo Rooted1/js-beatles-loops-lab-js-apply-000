@@ -29,6 +29,7 @@ let iLoveTheBeatles = (num) => {
     empArr.push("I love the Beatles!");
     num++
   } while (num<15);
+  return empArr;
 }
 
 
