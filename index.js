@@ -23,3 +23,4 @@ function johnLennonFacts(factsArr){
 }
 
 
+let iLoveTheBeatles = 
