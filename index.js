@@ -23,7 +23,13 @@ function johnLennonFacts(factsArr){
 }
 
 
-let iLoveTheBeatles = (num) => 
+let iLoveTheBeatles = (num) => {
+  let empArr = [];
+  
+  do {
+    
+  } while ()
+}
 
 
 
