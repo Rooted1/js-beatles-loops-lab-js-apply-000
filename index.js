@@ -10,9 +10,9 @@ function theBeatlesPlay(arr1, arr2){
   
 }
 
-function johnLennonFacts(factsArr){
-  while(){
-    factsArr[i] + "!!!"
-    i++
-  }
-}
+// function johnLennonFacts(factsArr){
+//   while(var i !> factsArr.length){
+//     factsArr[i] + "!!!"
+//     i++
+//   }
+// }
