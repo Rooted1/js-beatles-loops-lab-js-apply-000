@@ -12,12 +12,12 @@ function theBeatlesPlay(arr1, arr2){
 
 function johnLennonFacts(factsArr){
   let  x = 0;
-  let newArr = [];
+  let factsAboutJohn = [];
 
   while(x <  factsArr.length){
-    newArr.push( factsArr[x] + "!!!");
+    factsAboutJohn.push( factsArr[x] + "!!!");
     x++;
   }
   
-  return newArr;
+  return factsAboutJohn;
 }
