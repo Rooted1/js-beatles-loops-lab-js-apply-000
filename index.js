@@ -10,7 +10,8 @@ function theBeatlesPlay(arr1, arr2){
   return emptyArr
 }
 
-function johnLennonFacts(factsArr){
+
+let johnLennonFacts = (factsArr) => {
   let  x = 0;
   let factsAboutJohn = [];
 
