@@ -27,7 +27,7 @@ let iLoveTheBeatles = (num) => {
   let empArr = [];
   
   do {
-    
+    empArr.push();
   } while ()
 }
 
