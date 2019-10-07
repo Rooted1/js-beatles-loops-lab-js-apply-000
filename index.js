@@ -13,8 +13,8 @@ function theBeatlesPlay(arr1, arr2){
 
 function johnLennonFacts(factsArr){
   var x = 0;
-  while(x <=   factsArr.length){
+  while(x <=  factsArr.length){
     factsArr[i] + "!!!"
-    i++
+    x++
   }
 }
