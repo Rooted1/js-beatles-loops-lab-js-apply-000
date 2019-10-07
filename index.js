@@ -2,9 +2,9 @@
 function theBeatlesPlay(arr1, arr2){
   var emptyArr = []
   
-  for (var i in arr1){
-    for(var j in arr2){
-      console.log( emptyArr.push(arr1[i] + "plays " + arr2[j]))
+  for (var i = 0; i < arr1.length; i++){
+    for(var j = 0; j < arr2.length; j++){
+      return emptyArr.push(arr1[i] + "plays " + arr2[j])
     }
   }
   
