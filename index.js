@@ -23,4 +23,9 @@ function johnLennonFacts(factsArr){
 }
 
 
-let iLoveTheBeatles = 
+let iLoveTheBeatles = (num) => 
+
+
+
+
+
