@@ -14,7 +14,7 @@ function theBeatlesPlay(arr1, arr2){
 function johnLennonFacts(factsArr){
   var x = 0;
   while(x <=  factsArr.length){
-    return factsArr[i] + "!!!"
+    return factsArr[x] + "!!!"
     x++
   }
 }
