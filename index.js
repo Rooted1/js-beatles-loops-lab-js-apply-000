@@ -25,10 +25,11 @@ function johnLennonFacts(factsArr){
 
 let iLoveTheBeatles = (num) => {
   let empArr = [];
-  
+  let x = 0;
   do {
-    empArr.push();
-  } while ()
+    empArr.push("I love the Beatles!");
+    num++
+  } while (num<15);
 }
 
 
