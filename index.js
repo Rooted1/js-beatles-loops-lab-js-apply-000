@@ -7,7 +7,7 @@ function theBeatlesPlay(arr1, arr2){
       emptyArr.push(arr1[i] + " plays " + arr2[j])
     }
   }
-  return emptyArr
+  return emptyArr;
 }
 
 
