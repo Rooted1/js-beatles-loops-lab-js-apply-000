@@ -21,3 +21,5 @@ function johnLennonFacts(factsArr){
   
   return factsAboutJohn;
 }
+
+
